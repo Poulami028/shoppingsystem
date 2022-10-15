@@ -6,9 +6,9 @@ spring:
     name: Login-assignment
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/myntra
+    url: jdbc:mysql://localhost:3306/
     username: root
-    password: Saharsh*11240
+    password: 
   jpa:
     hibernate:
       ddl-auto: update
